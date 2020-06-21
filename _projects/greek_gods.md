@@ -1,11 +1,11 @@
 ---
 name: Greek Gods
-acronym:
+acronym: GG
 team: Coleman
-location:
+location: Kansas City, USA
 started: 2017-11-01
 finished:
-documentation_link:
+documentation_link: https://pinside.com/pinball/forum/topic/greek-gods-homebrew
 code_link:
 gameplay_link:
 boardsets: P3-Roc
